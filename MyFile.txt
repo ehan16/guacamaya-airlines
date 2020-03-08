@@ -1,0 +1,27 @@
+Bogota, El Dorado, Colombia
+Caracas, Maiquetia, Venezuela
+Quito, Mariscal Sucre, Ecuador
+Ciudad de Panama, Aeropuerto Internacional Panama Pacifico, Panama
+Ciudad de Mexico, Aeropuerto Internacional, Mexico
+Buenos Aires, Aeropuerto de Buenos Aires, Argentina
+Santiago de Chile, Aeropuerto Internacional Comodoro Arturo Merino Benitez, Chile
+fciudades
+3400, Aerolineas mexicanas, 1500, 3
+3413, Aerolineas mexicanas, 2400, 4
+2913, Aerolineas mexicanas, 3455, 5
+3401, Latam, 599, 7
+998, Latam, 1200, 5
+2013, Avianca, 1800, 4
+111, Copa Airlines, 3900, 4
+311, Conviasa, 1300, 5
+511, Conviasa, 780, 6
+fvuelos
+Ciudad de Mexico, Bogota, 3400
+Ciudad de Mexico, Quito, 3413
+Ciudad de Mexico, Buenos Aires, 2913
+Buenos Aires, Caracas, 2013
+Santiago de Chile, Quito, 998
+Ciudad de Panama, Santiago de Chile, 111
+Santiago de Chile, Buenos Aires, 3401
+Caracas, Ciudad de Panama, 311
+Caracas, Bogota, 511

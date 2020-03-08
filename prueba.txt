@@ -1,0 +1,9 @@
+Bogota, El Dorado, Colombia
+Caracas, Maiquetia, Venezuela
+Quito, Mariscal Sucre, Ecuador
+fciudades
+3400, Conviasa, 1200, 5
+2401, Avianca, 1300, 6
+fvuelos
+Caracas, Bogota, 3400
+Quito, Caracas, 2401

@@ -1,0 +1,12 @@
+BOGOTA, El Dorado, Colombia
+CARACAS, Maiquetia, Venezuela
+QUITO, Mariscal Sucre, Ecuador
+MADRID, asdas, asdas
+fciudades
+3400, Conviasa, 1200, 5
+2401, Avianca, 1300, 6
+2321, wodjwj, 2323, 32
+fvuelos
+Caracas, Bogota, 3400
+Quito, Caracas, 2401
+MADRID, QUITO, 2321
